@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I am Anastasiia Vorobiova
-##  Full Stack Developer
+### I am Anastasiia Vorobiova
+###  Full Stack Developer
 
 - 📫 How to reach me:
   - anastasiiavorobiova2403@gmail.com
