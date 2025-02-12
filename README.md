@@ -15,6 +15,7 @@
   - Zustand
   - Nano stores
   - Webpack
+  - Vite
   - HTML
   - CSS / SCSS
   - Express
