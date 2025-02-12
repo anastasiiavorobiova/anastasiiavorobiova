@@ -9,13 +9,16 @@
 - 💬 I can help with
   - React
   - Next
+  - Astro
   - Typescript
   - Redux
   - Zustand
+  - Nano stores
   - Webpack
   - HTML
   - CSS / SCSS
   - Express
+  - Strapi CMS
  
 - 👯 Languages
   - Ukrainian
