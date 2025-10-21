@@ -7,21 +7,27 @@
   - [@Anastasiia_ova Telegram](https://t.me/Anastasiia_ova)
 
 - 💬 I can help with
-  - React
-  - Next
-  - Astro
-  - Typescript
-  - Redux
-  - Zustand
-  - Nano stores
-  - Webpack
-  - Vite
-  - HTML
-  - CSS / SCSS
-  - Express
+  - React, Next, Astro
+  - Typescript, JavaScript
+  - Redux, RTK Query, Zustand, Nano stores
+  - i18next
+  - Storybook
+  - React hook form
+  - Tanstack query
+  - Atomic design, FSD
+  - RTL, Vitest, MSW, Jest, Playwright
+  - Webpack, Vite
+  - HTML, CSS / SCSS
+  - BEM, Bootstrap, Tailwind, MUI, Mantine, Evergreen UI, Ant Design, Styled Components
+  - Node.js, Bun.js
+  - Express, Elysia
   - Strapi CMS
   - Elysia
-  - Telegram API
+  - Telegram API, Google Sheets API
+  - Docker
+  -  PM2
+  -  MongoDB, Postgres
+  -  Better Auth
  
 - 👯 Languages
   - Ukrainian
