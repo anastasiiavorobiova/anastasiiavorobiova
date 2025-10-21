@@ -4,7 +4,7 @@
 
 - 📫 How to reach me:
   - anastasiiavorobiova2403@gmail.com
-  - @Anastasiia_ova Telegram
+  - [@Anastasiia_ova Telegram](https://t.me/Anastasiia_ova)
 
 - 💬 I can help with
   - React
