@@ -20,6 +20,8 @@
   - CSS / SCSS
   - Express
   - Strapi CMS
+  - Elysia
+  - Telegram API
  
 - 👯 Languages
   - Ukrainian
