@@ -27,6 +27,7 @@
   -  PM2
   -  MongoDB, Postgres
   -  Better Auth
+  -  Github Actions
  
 - 👯 Languages
   - Ukrainian
