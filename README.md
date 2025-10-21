@@ -22,7 +22,6 @@
   - Node.js, Bun.js
   - Express, Elysia
   - Strapi CMS
-  - Elysia
   - Telegram API, Google Sheets API
   - Docker
   -  PM2
