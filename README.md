@@ -1,13 +1,14 @@
 ## Hi, I'm Anastasiia :wave:
-**Senior Full-Stack Engineer** — TypeScript, React, Node.js/Bun. 4+ years shipping
-production web apps for UK, EU, and US clients: B2B platforms at EPAM Systems,
-a B2C SaaS taken from an internal tool to public launch, and a property-valuation
-platform for an international client.
-Alongside product work, I've **mentored 100+ developers** and run **360+ technical
-interviews** at Mate Academy — so my code reviews are thorough and my PRs are readable.
+
+**Senior Full-Stack Engineer** — TypeScript, React, Node.js/Bun. 
+
+4+ years shipping production web apps for UK, EU, and US clients: B2B platforms at EPAM Systems, a B2C SaaS taken from an internal tool to public launch, and a property-valuation platform for an international client.
+
+Alongside product work, I've **mentored 100+ developers** and run **360+ technical interviews** at Mate Academy — so my code reviews are thorough and my PRs are readable.
 
 
 ### Core stack
+
 **Frontend:** React · Next.js · TypeScript · Zustand · TanStack Query · Tailwind
 
 **Backend:** Node.js · Bun · Elysia · Express · PostgreSQL · MongoDB · Drizzle ORM
