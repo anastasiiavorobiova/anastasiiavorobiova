@@ -1,37 +1,23 @@
-## Hi there 👋
-### I am Anastasiia Vorobiova
-###  Full Stack Developer
+## Hi, I'm Anastasiia :wave:
+**Senior Full-Stack Engineer** — TypeScript, React, Node.js/Bun. 4+ years shipping
+production web apps for UK, EU, and US clients: B2B platforms at EPAM Systems,
+a B2C SaaS taken from an internal tool to public launch, and a property-valuation
+platform for an international client.
+Alongside product work, I've **mentored 100+ developers** and run **360+ technical
+interviews** at Mate Academy — so my code reviews are thorough and my PRs are readable.
 
-- 📫 How to reach me:
-  - anastasiiavorobiova2403@gmail.com
-  - [Telegram](https://t.me/Anastasiia_ova)
 
-- 💬 I can help with
-  - React, Next, Astro
-  - Typescript, JavaScript
-  - Redux, RTK Query, Zustand, Nano stores
-  - i18next
-  - Storybook
-  - React hook form
-  - Tanstack query
-  - Atomic design, FSD
-  - RTL, Vitest, MSW, Jest, Playwright
-  - Webpack, Vite
-  - HTML, CSS / SCSS
-  - BEM, Bootstrap, Tailwind, MUI, Mantine, Evergreen UI, Ant Design, Styled Components
-  - Node.js, Bun.js
-  - Express, Elysia
-  - Strapi CMS
-  - Telegram API, Google Sheets API
-  - Docker
-  -  PM2
-  -  MongoDB, Postgres
-  -  Better Auth
-  -  Github Actions
- 
-- 👯 Languages
-  - Ukrainian
-  - English
+### Core stack
+**Frontend:** React · Next.js · TypeScript · Zustand · TanStack Query · Tailwind
+
+**Backend:** Node.js · Bun · Elysia · Express · PostgreSQL · MongoDB · Drizzle ORM
+
+**Quality & delivery:** Playwright · Jest · Vitest · Docker · GitHub Actions · CI/CD
+
+
+### Reach me
+[LinkedIn](https://www.linkedin.com/in/anastasiia-v-64380919a/) · [Telegram](https://t.me/Anastasiia_ova) · anastasiiavorobiova2403@gmail.com
+
 
 <!--
 **anastasiiavorobiova/anastasiiavorobiova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
