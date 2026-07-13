@@ -1,6 +1,6 @@
 ## Hi, I'm Anastasiia :wave:
 
-**Senior Full-Stack Engineer** — TypeScript, React, Node.js/Bun. 
+**Full-Stack Engineer** — TypeScript, React, Node.js/Bun. 
 
 4+ years shipping production web apps for UK, EU, and US clients: B2B platforms at EPAM Systems, a B2C SaaS taken from an internal tool to public launch, and a property-valuation platform for an international client.
 
